@@ -1,7 +1,7 @@
 # Meeting-Scheduler
 
 
-# Requirement
+Requirement
 
 1. Scheduler that finds the available time between grp of participants 
 2. Create meeting (date, duration, list of participant)
@@ -12,10 +12,11 @@
 7. Handle the concurrency (check where to put locks)
 
 
-# NOTE:
+NOTE:
 Timezone and location of the participant is the same.
 
-# Class Diagram
+
+Class Diagram
 
 https://app.creately.com/d/Jt9wPVvR979/edit
 
